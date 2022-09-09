@@ -1,18 +1,18 @@
 {
-  "name": "pkg-name",
+  "name": "shen-ui-1",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "packageManager": "pnpm@7.9.0",
   "description": "",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/pkg-name#readme",
+  "homepage": "https://github.com/antfu/shen-ui-1#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/pkg-name.git"
+    "url": "git+https://github.com/antfu/shen-ui-1.git"
   },
-  "bugs": "https://github.com/antfu/pkg-name/issues",
+  "bugs": "https://github.com/antfu/shen-ui-1/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
